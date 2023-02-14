@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuxCordSite", "AuxCordSite.csproj", "{FBECF0C8-8065-4847-A7B5-1BE5D76693E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuxCordSite", "AuxCordSite.csproj", "{FBECF0C8-8065-4847-A7B5-1BE5D76693E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
